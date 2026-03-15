@@ -36,7 +36,7 @@ This project is built using the **MERN Stack (MongoDB, Express.js, React.js, Nod
 
   * Designed to help students prepare for interviews, exams, and programming tests.
 
----
+
 
 ##  Tech Stack
 
