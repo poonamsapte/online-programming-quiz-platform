@@ -43,8 +43,8 @@ This project is built using the **MERN Stack (MongoDB, Express.js, React.js, Nod
 ### Frontend
 
 * React.js
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 
 ### Backend
